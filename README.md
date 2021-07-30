@@ -1,16 +1,14 @@
 # Invoicy
 
-A project that keeps record of invoices and their due dates.
+A SPA (Single PAge Application) that keeps record of invoices and their due dates.
 
-![](https://github.com/Kolaposki/Invoicy/blob/master/screenshot.png?raw=true)
+![](https://github.com/Kolaposki/Invoicy/blob/main/screenshot.png?raw=true)
 
-![](https://github.com/Kolaposki/Invoicy/blob/master/screenshot2.png?raw=true)
+![](https://github.com/Kolaposki/Invoicy/blob/main/screenshot2.png?raw=true)
 
 Built using Vue.js & Firebase.
 
-The project was built while learning CRUD implementation and in Vue.js
-
-Much thanks to John Komarnicki [tutorial](https://www.youtube.com/watch?v=vsJtN54aA7w).
+The project was built while learning CRUD implementation in Vue.js
 
 ### Author
 

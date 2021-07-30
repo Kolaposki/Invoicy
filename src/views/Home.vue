@@ -36,6 +36,17 @@
         :key="index"
       />
     </div>
+
+    <footer>
+      <div class="container">
+        <span
+          >Made With <img src="@/assets/love.png" alt="" /> by
+          <a href="https://twitter.com/KolapoOshodi" target="_blank"
+            >Kolaposki</a
+          >
+        </span>
+      </div>
+    </footer>
   </div>
 </template>
 
@@ -94,6 +105,35 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+footer {
+  display: block;
+  margin: 0 0 40px;
+}
+footer span {
+  display: block;
+  text-align: center;
+  font-family: "poppin-med";
+  color: #75808a;
+  margin-top: 30px;
+}
+footer img {
+  width: 25px;
+  height: 25px;
+  margin: -7px 0.5px;
+  padding: 0;
+}
+footer a {
+  color: #75808a;
+  text-decoration: none;
+  background-color: transparent;
+}
+footer .container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
 .home {
   color: #fff;
 
